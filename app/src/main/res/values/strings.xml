@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">Art Space</string>
-    <string name="first_art_description">Sakura cherry during 1870–1880 by Megata Morikaga\nOriginal from Library of Congress.</string>
-    <string name="second_art_description">Katsushika Hokusai\'s Deer (1904), vintage animal illustration\nOriginal public domain image from The Smithsonian Institution.</string>
-    <string name="third_art_description">Katsushika Hokusai\'s bamboo (1760–1849) vintage Japanese painting\nOriginal public domain image from The MET Museum.</string>
-    <string name="fourth_art_description">Bird perching on tree top, vintage Japanese animal painting by G.A\nAudsley-Japanese illustration\nPublic domain image from 1884 edition of The Ornamental Arts Of Japan.</string>
+    <string name="first_art_description">Original from Library of Congress.</string>
+    <string name="second_art_description">Vintage animal illustration\nOriginal public domain image from The Smithsonian Institution.</string>
+    <string name="third_art_description">Vintage Japanese painting\nOriginal public domain image from The MET Museum.</string>
+    <string name="fourth_art_description">Vintage Japanese animal painting\nPublic domain image from 1884 edition of The Ornamental Arts Of Japan.</string>
     <string name="previous_button">Previous</string>
     <string name="next_button">Next</string>
+    <string name="first_art_name">Sakura cherry during 1870–1880 by Megata Morikaga</string>
+    <string name="second_art_name">Katsushika Hokusai\'s Deer (1904)</string>
+    <string name="third_art_name">Katsushika Hokusai\'s bamboo (1760–1849)</string>
+    <string name="fourth_art_name">Bird perching on tree top by G.A Audsley-Japanese illustration</string>
 </resources>
